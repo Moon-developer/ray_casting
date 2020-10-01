@@ -1,6 +1,6 @@
-# Ray Casting Experiment
+# Ray Tracing Experiment
 
-This repo holds a small app to experiment ray casting in Python. Because Python isn't the most practical language for
+This repo holds a small app to experiment ray tracing in Python. Because Python isn't the most practical language for
 such a task this is more to focus on the algorithm required to execute suck a task.
 
 ## SETUP
